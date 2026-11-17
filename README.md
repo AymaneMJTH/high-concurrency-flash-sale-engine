@@ -2,11 +2,7 @@
 
 A production-grade flash sale system engineered to handle massive concurrent traffic while preventing overselling through distributed locking and event-driven architecture.
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/fb644ed9-99ce-4643-a682-28c325622a7e" width="800" controls>
-    Your browser does not support the video tag.
-  </video>
-</p>
+https://github.com/user-attachments/assets/fb644ed9-99ce-4643-a682-28c325622a7e
 
 ## Overview
 
